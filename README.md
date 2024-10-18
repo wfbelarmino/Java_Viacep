@@ -2,7 +2,7 @@
 
 ## O que vamos fazer?
 
-> [!NOTE]
+ [!NOTE]
 
 - Criar uma aplicação para consultar a API ViaCEP
 - Menu para o usuário informar o CEP para busca
