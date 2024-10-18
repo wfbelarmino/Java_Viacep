@@ -1,6 +1,6 @@
-## Java_Viacep
+# Java_Viacep
 
-# O que vamos fazer?
+## O que vamos fazer?
 
 Criar uma aplicação para consultar a API ViaCEP
 Menu para o usuário informar o CEP para busca
